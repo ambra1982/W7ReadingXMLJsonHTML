@@ -16,10 +16,7 @@
             {
                 "title": "The Secret Life of Plants",
                 "pubdate": 1989,
-                "author": {
-                    "main": "Peter Tompkins",
-                    "coauthor": "Christopher Bird"
-                },
+                "author": "Peter Tompkins &amp; Christopher Bird",
                 "character": "Plants"
             }
         ]
